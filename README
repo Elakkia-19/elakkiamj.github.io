@@ -1,0 +1,81 @@
+🌐 Personal Portfolio Website – Elakkia M J
+This is a fully responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my academic background, AI/ML projects, technical skills, internships, and certifications.
+The website represents my profile as an AI & Machine Learning Enthusiast and Computer Science Undergraduate.
+
+👩‍💻 About Me
+I am a Computer Science undergraduate with hands-on experience in:
+Artificial Intelligence
+Machine Learning
+Data Preprocessing
+Python Development
+Currently working as a Project Trainee at Tata Communications Limited, gaining practical exposure to AI/ML workflows and data processing.
+
+🚀 Features
+✔ Fully responsive design
+✔ Modern dark-themed UI
+✔ Smooth scrolling navigation
+✔ Animated transitions (fade-in effects)
+✔ Interactive timeline for Education & Internships
+✔ Project showcase section
+✔ Skill badges layout
+✔ Contact section with copy-to-clipboard email feature
+✔ Mobile-friendly hamburger menu
+
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+Google Fonts (DM Sans & Playfair Display)
+No external frameworks were used — the project is built from scratch.
+
+📂 Website Sections
+🏠 Hero Section
+Name & Title
+GitHub & LinkedIn buttons
+Animated background effects
+
+👩‍🎓 About
+Professional summary
+Career interests
+
+💡 Skills
+Technical skills (Python, Pandas, NumPy, Scikit-learn)
+AI/ML knowledge
+Tools (VS Code, Excel, Google Colab)
+
+🎓 Education
+B.E Computer Science & Engineering
+Academic scores and CGPA displayed using timeline UI
+
+🧠 Projects
+AI-Driven Student Placement Prediction & Skill Gap Recommendation System
+Technologies used: Python, Pandas, NumPy, Scikit-learn
+
+💼 Internships
+AI/ML Internship at Tata Communications Limited
+Project Trainee role
+
+📜 Certifications
+Python Bootcamp (Udemy)
+Python Essentials (Cisco Networking Academy)
+Generative AI in Action (IBM)
+
+📞 Contact
+Email (with copy functionality)
+Phone
+Location (Tenkasi, Tamil Nadu)
+
+📱 Responsive Design
+The website adapts to:
+Desktop screens
+Tablets
+Mobile devices
+Includes a dynamic hamburger menu for smaller screens.
+
+🎯 Purpose of This Portfolio
+Showcase technical skills
+Present AI/ML projects professionally
+Create a strong online presence
+Support placement & internship applications
+
+Demonstrate frontend design capability
